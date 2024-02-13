@@ -13,7 +13,7 @@ Tecnologias utilizadas:
 
 - React.js
 - Tailwind CSS
-- Typescript
+- TypeScript
 - radix ui(Dialog)
 - date-fins
 - lucide-react
