@@ -3,13 +3,13 @@
 
 Neste projeto foi desenvolvido uma aplicação de criação de notas onde o usuário pode criá-las por áudio ou de maneira escrita.
 
-Tecnologias utilizadas:
+
 
 
 
 https://github.com/MatheusToledo246/ExpertNotes/assets/125576377/b9ba80f4-600e-4870-854c-9d2ad9085d70
 
-
+Tecnologias utilizadas:
 
 - React.js
 - Tailwind CSS
